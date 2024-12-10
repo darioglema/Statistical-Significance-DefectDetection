@@ -53,6 +53,7 @@ nano ~/.config/Ultralytics/settings.json
 # In dataset_dir add the path to the directory of this repository
 ```
 
+```
 yolo detect val model=models/<model.pt> data=data/NEU-DET-<number>.yaml 
 ```
 
